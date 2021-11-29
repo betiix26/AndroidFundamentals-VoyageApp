@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.travel.voyage">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="Voyage"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TravelJournal">
+        <activity android:name="com.travel.voyage.trip.ViewTripActivity" />
+        <activity android:name="com.travel.voyage.RegisterActivity" />
+        <activity android:name="com.travel.voyage.LoginActivity" />
+        <activity
+            android:name="com.travel.voyage.trip.NewTripActivity"
+            android:parentActivityName="com.travel.voyage.HomeActivity"
+            android:theme="@style/Theme.TravelJournal.ActionBar" />
+        <activity
+            android:name="com.travel.voyage.HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.TravelJournal.NoActionBar" />
+        <activity
+            android:name="com.travel.voyage.MainActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

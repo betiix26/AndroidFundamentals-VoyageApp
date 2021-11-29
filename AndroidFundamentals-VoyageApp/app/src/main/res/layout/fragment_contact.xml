@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sunset6"
+    android:padding="@dimen/medium_padding">
+
+    <ImageView
+        android:id="@+id/app_logo"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/icon_height"
+        android:layout_above="@id/linear_layout_contact"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="49dp"
+        android:contentDescription="@string/app_logo"
+        android:src="@drawable/airplane" />
+
+    <LinearLayout
+        android:id="@+id/linear_layout_contact"
+        android:layout_width="wrap_content"
+        android:layout_height="305dp"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="@dimen/medium_padding"
+        android:backgroundTint="@color/blue_pale"
+        android:orientation="vertical"
+        android:padding="@dimen/medium_margin">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/small_margin"
+            android:gravity="center"
+            android:text="@string/contact_me"
+            android:textColor="@color/white"
+            android:textSize="@dimen/welcome_text_size"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/hr_size"
+            android:layout_marginBottom="@dimen/small_margin"
+            android:background="@color/gray_700" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/small_margin"
+            android:text="@string/questions"
+            android:textColor="@color/white" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/hr_size"
+            android:layout_marginBottom="@dimen/small_margin"
+            android:background="@color/gray_700" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:layout_width="@dimen/contact_icon_size"
+                android:layout_height="@dimen/contact_icon_size"
+                android:layout_marginEnd="@dimen/medium_margin"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:clickable="true"
+                android:contentDescription="@string/email_icon"
+                android:focusable="true"
+                android:onClick="openEmailLink"
+                android:scaleType="fitCenter"
+                android:src="@drawable/gmail" />
+
+            <ImageButton
+                android:layout_width="@dimen/contact_icon_size"
+                android:layout_height="@dimen/contact_icon_size"
+                android:layout_marginEnd="@dimen/medium_margin"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:clickable="true"
+                android:contentDescription="@string/linkedin_logo"
+                android:focusable="true"
+                android:onClick="openLinkedInLink"
+                android:scaleType="fitCenter"
+                android:src="@drawable/linkedin" />
+
+            <ImageButton
+                android:layout_width="@dimen/contact_icon_size"
+                android:layout_height="@dimen/contact_icon_size"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:clickable="true"
+                android:contentDescription="@string/github_logo"
+                android:focusable="true"
+                android:onClick="openGithubLink"
+                android:scaleType="fitCenter"
+                android:src="@drawable/github" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

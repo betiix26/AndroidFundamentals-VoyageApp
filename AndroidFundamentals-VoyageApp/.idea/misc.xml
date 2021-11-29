@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/VoyageApp/app/src/main/res/layout/bar.xml" value="0.13125" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/VoyageApp/app/src/main/res/layout/content_main.xml" value="0.13125" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/VoyageApp/app/src/main/res/layout/dropdown_item.xml" value="0.13125" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/VoyageApp/app/src/main/res/layout/fragment_about.xml" value="0.13125" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/VoyageApp/app/src/main/res/layout/fragment_contact.xml" value="0.13125" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/VoyageApp/app/src/main/res/layout/items.xml" value="0.13125" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/VoyageApp/app/src/main/res/menu/activity_main.xml" value="0.13125" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/VoyageApp/app/src/main/res/menu/home.xml" value="0.152" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/euro.xml" value="0.26615384615384613" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/gradient.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/gradient_color.xml" value="0.26615384615384613" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/gradient_color2.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/gradient_color3.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/gradient_color4.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/gradient_color5.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.26615384615384613" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.26615384615384613" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_baseline_ice_skating_24.xml" value="0.26615384615384613" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_baseline_mail_outline_24.xml" value="0.26615384615384613" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_baseline_star_outline_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_menu_camera.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_alternate_email_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_category_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_cloud_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_date_range_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_delete_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_fingerprint_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_house_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_ice_skating_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_info_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_invert_colors_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_location_on_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_map_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_monetization_on_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_save_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_share_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_text_fields_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_today_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_waves_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_outline_wb_sunny_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/icon_selector.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/outline_visibility_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/outline_visibility_off_24.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/rounded_view.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/side_nav_bar.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/drawable/splash.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/activity_new_trip.xml" value="0.12360688956433637" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/activity_view_trip.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/dropdown_item.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/fragment_about.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/fragment_contact.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/home.xml" value="0.13125" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/layout/trip_item.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/menu/activity_main_drawer.xml" value="0.4" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/menu/home.xml" value="0.13125" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/Proiect Android/app - travel copie/travel-journal-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14739583333333334" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.2046875" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/drawable/icon_selector.xml" value="0.22777777777777777" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/drawable/outline_visibility_24.xml" value="0.14907407407407408" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/drawable/outline_visibility_off_24.xml" value="0.14907407407407408" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/activity_home.xml" value="0.152" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/activity_new_trip.xml" value="0.2" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/activity_view_trip.xml" value="0.2" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/app_bar_main.xml" value="0.264" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/dropdown_item.xml" value="0.1" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/fragment_about.xml" value="0.2" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/fragment_contact.xml" value="0.264" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/fragment_home.xml" value="0.10612968591691996" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/nav_header_main.xml" value="0.264" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/layout/trip_item.xml" value="0.176" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/menu/activity_main_drawer.xml" value="0.25025641025641027" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/menu/home.xml" value="0.20462962962962963" />
+        <entry key="..\:/Facultate CR3/app - travel copie/travel-journal-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2046875" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/euro.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/gradient.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/gradient_color.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/gradient_color2.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/gradient_color3.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/gradient_color4.xml" value="0.2203125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/gradient_color5.xml" value="0.2203125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.3472222222222222" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_baseline_ice_skating_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_baseline_mail_outline_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_baseline_star_outline_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_baseline_today_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_menu_camera.xml" value="0.3472222222222222" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_alternate_email_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_category_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_cloud_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_date_range_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_delete_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_fingerprint_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_house_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_ice_skating_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_info_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_invert_colors_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_location_on_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_map_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_person_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_save_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_share_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_text_fields_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_today_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_waves_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/ic_outline_wb_sunny_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/rounded_view.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/side_nav_bar.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/drawable/splash.xml" value="0.2703125" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/activity_home.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/activity_main.xml" value="0.19427558257345492" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/activity_new_trip.xml" value="0.2" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/activity_view_trip.xml" value="0.264" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/app_bar_main.xml" value="0.264" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/content_main.xml" value="0.264" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/dropdown_item.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/fragment_about.xml" value="0.264" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/fragment_contact.xml" value="0.176" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/fragment_home.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/nav_header_main.xml" value="0.264" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/layout/trip_item.xml" value="0.2" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/menu/activity_main_drawer.xml" value="0.3933333333333333" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/menu/home.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3472222222222222" />
+        <entry key="..\:/Users/Beti/Downloads/app - travel/travel-journal-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

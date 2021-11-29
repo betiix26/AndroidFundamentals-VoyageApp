@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/medium_padding"
+    tools:context=".trip.NewTripActivity"
+    android:background="@drawable/plane">
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/text_field_trip_name"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/trip_name"
+        app:startIconDrawable="@drawable/ic_outline_map_24">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/text_field_trip_name_value"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:maxLines="1"
+            android:textColor="@color/white" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/text_field_destination"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_field_trip_name"
+        android:layout_marginTop="@dimen/small_margin"
+        android:hint="@string/destination"
+        app:startIconDrawable="@drawable/ic_outline_location_on_24">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/text_field_destination_value"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:maxLines="1"
+            android:textColor="@color/white" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/dropdown_trip_type"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_field_destination"
+        android:layout_marginTop="@dimen/small_margin"
+        android:hint="@string/trip_type"
+        app:startIconDrawable="@drawable/ic_outline_category_24">
+
+        <AutoCompleteTextView
+            android:id="@+id/text_field_trip_type_value"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="none"
+            android:textColor="@color/white" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:id="@+id/text_view_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/dropdown_trip_type"
+        android:layout_marginTop="@dimen/small_margin"
+        android:text="@string/price_eur" />
+
+    <com.google.android.material.slider.Slider
+        android:id="@+id/slider_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dropdown_trip_type"
+        android:layout_marginTop="28dp"
+        android:backgroundTint="@color/pink1"
+        android:stepSize="50.0"
+        android:valueFrom="0.0"
+        android:valueTo="2000.0" />
+
+    <LinearLayout
+        android:id="@+id/linear_layout_dates"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/slider_price"
+        android:orientation="horizontal">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/text_field_start_date"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:layout_marginEnd="@dimen/small_margin"
+            android:layout_weight="1"
+            android:inputType="text"
+            app:startIconDrawable="@drawable/ic_outline_today_24">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/text_field_start_date_value"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:hint="@string/start_date"
+                android:longClickable="false"
+                android:maxLines="1"
+                android:onClick="openStartDatePicker"
+                android:textColor="@color/white"
+                android:textIsSelectable="false" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/text_field_end_date"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginStart="@dimen/small_margin"
+            android:layout_weight="1"
+            android:inputType="text"
+            app:startIconDrawable="@drawable/ic_outline_date_range_24">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/text_field_end_date_value"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:hint="@string/end_date"
+                android:longClickable="false"
+                android:maxLines="1"
+                android:onClick="openEndDatePicker"
+                android:textColor="@color/white"
+                android:textIsSelectable="false" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/text_view_rating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linear_layout_dates"
+        android:layout_marginTop="@dimen/small_margin"
+        android:layout_marginBottom="@dimen/small_margin"
+        android:text="@string/rating" />
+
+    <RatingBar
+        android:id="@+id/rating_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_view_rating"
+        android:layout_centerInParent="true"
+        android:max="5"
+        android:numStars="5"
+        android:progressTint="@color/yellow_500"
+        android:rating="2.5"
+        android:secondaryProgressTint="@color/yellow_500" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button_save_trip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:layout_marginEnd="@dimen/small_margin"
+            android:drawableLeft="@drawable/ic_outline_save_24"
+            android:onClick="saveTrip"
+            android:text="@string/save_trip"
+            android:backgroundTint="@color/black"/>
+
+        <Button
+            android:id="@+id/button_delete_trip"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="start"
+            android:layout_marginEnd="@dimen/small_margin"
+            android:layout_weight="1"
+            android:backgroundTint="@color/red"
+            android:drawableLeft="@drawable/ic_outline_delete_24"
+            android:onClick="deleteTrip"
+            android:text="@string/delete_this_trip"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

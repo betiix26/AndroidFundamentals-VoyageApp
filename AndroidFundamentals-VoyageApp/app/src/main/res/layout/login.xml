@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sunset"
+    android:padding="@dimen/medium_padding"
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:id="@+id/app_logo"
+        android:layout_width="395dp"
+        android:layout_height="131dp"
+        android:layout_above="@id/linear_layout_login"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="47dp"
+        android:contentDescription="@string/app_logo"
+        android:src="@drawable/airplane" />
+
+    <LinearLayout
+        android:id="@+id/linear_layout_login"
+        android:layout_width="368dp"
+        android:layout_height="343dp"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="@dimen/medium_padding"
+        android:orientation="vertical"
+        android:padding="@dimen/medium_margin">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/small_margin"
+            android:gravity="center"
+            android:text="@string/welcome_to_my_travel_app_voyage"
+            android:textSize="@dimen/welcome_text_size"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/text_field_email"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/email"
+            app:startIconDrawable="@drawable/ic_outline_alternate_email_24">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/text_field_email_value"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress"
+                android:maxLines="1"
+                android:textColor="@color/white" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/text_field_password"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/small_margin"
+            android:hint="@string/password"
+            app:passwordToggleDrawable="@drawable/icon_selector"
+            app:passwordToggleEnabled="true"
+            app:passwordToggleTint="@color/black"
+            app:startIconDrawable="@drawable/ic_outline_fingerprint_24">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/text_field_password_value"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:textColor="@color/white" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="61dp"
+            android:layout_marginTop="@dimen/small_margin"
+            android:backgroundTint="@color/black"
+            android:onClick="beginLogin"
+            android:text="@string/login"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linear_layout_login"
+        android:layout_marginTop="65dp"
+        android:backgroundTint="@color/pink_pale"
+        android:onClick="openRegisterActivity"
+        android:text="@string/sign_up" />
+</RelativeLayout>

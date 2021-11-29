@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TripApp</string>
+    <string name="app_name">VoyageApp</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>

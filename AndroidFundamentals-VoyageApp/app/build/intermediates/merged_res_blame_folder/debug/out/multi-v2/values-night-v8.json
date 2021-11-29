@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Beti\\Desktop\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Beti\\Desktop\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "48,39,2,16,52,43,54,31",
                         "startColumns": "4,4,4,4,4,4,4,4",

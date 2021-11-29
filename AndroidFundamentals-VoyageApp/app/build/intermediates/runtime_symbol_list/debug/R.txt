@@ -1721,8 +1721,6 @@ int drawable tooltip_frame_dark 0x7f0700d0
 int drawable tooltip_frame_light 0x7f0700d1
 int drawable travel 0x7f0700d2
 int drawable travel_heart 0x7f0700d3
-int drawable traveler2 0x7f0700d4
-int drawable traveling 0x7f0700d5
 int id ALT 0x7f080000
 int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002

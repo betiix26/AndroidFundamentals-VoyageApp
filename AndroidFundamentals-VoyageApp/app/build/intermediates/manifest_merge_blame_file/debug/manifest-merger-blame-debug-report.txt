@@ -6,70 +6,70 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml
+8-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml
+9-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <application
-13-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:7:5-33:19
+13-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:7:5-33:19
 14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 14-->[androidx.core:core:1.3.1] C:\Users\Beti\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
 15        android:debuggable="true"
 16        android:icon="@mipmap/ic_launcher"
-16-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:8:9-43
+16-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:8:9-43
 17        android:label="Voyage"
-17-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:9:9-31
+17-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:9:9-31
 18        android:roundIcon="@mipmap/ic_launcher"
-18-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:10:9-48
+18-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:10:9-48
 19        android:supportsRtl="true"
-19-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:11:9-35
+19-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:11:9-35
 20        android:testOnly="true"
 21        android:theme="@style/Theme.TravelJournal" >
-21-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:12:9-51
+21-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:12:9-51
 22        <activity android:name="com.travel.voyage.trip.ViewTripActivity" />
-22-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:13:9-76
-22-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:13:19-73
+22-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:13:9-76
+22-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:13:19-73
 23        <activity android:name="com.travel.voyage.RegisterActivity" />
-23-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:14:9-71
-23-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:14:19-68
+23-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:14:9-71
+23-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:14:19-68
 24        <activity android:name="com.travel.voyage.LoginActivity" />
-24-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:15:9-68
-24-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:15:19-65
+24-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:15:9-68
+24-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:15:19-65
 25        <activity
-25-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:16:9-19:68
+25-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:16:9-19:68
 26            android:name="com.travel.voyage.trip.NewTripActivity"
-26-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:17:13-66
+26-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:17:13-66
 27            android:parentActivityName="com.travel.voyage.HomeActivity"
-27-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:18:13-72
+27-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:18:13-72
 28            android:theme="@style/Theme.TravelJournal.ActionBar" />
-28-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:19:13-65
+28-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:19:13-65
 29        <activity
-29-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:20:9-23:70
+29-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:20:9-23:70
 30            android:name="com.travel.voyage.HomeActivity"
-30-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:21:13-58
+30-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:21:13-58
 31            android:label="@string/title_activity_home"
-31-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:22:13-56
+31-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:22:13-56
 32            android:theme="@style/Theme.TravelJournal.NoActionBar" />
-32-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:23:13-67
+32-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:23:13-67
 33        <activity
-33-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:24:9-32:20
+33-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:24:9-32:20
 34            android:name="com.travel.voyage.MainActivity"
-34-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:25:13-58
+34-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:25:13-58
 35            android:theme="@style/SplashTheme" >
-35-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:26:13-47
+35-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:26:13-47
 36            <intent-filter>
-36-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:27:13-31:29
+36-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:27:13-31:29
 37                <action android:name="android.intent.action.MAIN" />
-37-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:28:17-69
-37-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:28:25-66
+37-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:28:17-69
+37-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:28:25-66
 38
 39                <category android:name="android.intent.category.LAUNCHER" />
-39-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:30:17-77
-39-->C:\Users\Beti\Desktop\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:30:27-74
+39-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:30:17-77
+39-->C:\Users\Beti\Documents\GitHub\AndroidFundamentals-VoyageApp\AndroidFundamentals-VoyageApp\app\src\main\AndroidManifest.xml:30:27-74
 40            </intent-filter>
 41        </activity>
 42

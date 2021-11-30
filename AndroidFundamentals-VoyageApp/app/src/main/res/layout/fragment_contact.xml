@@ -31,6 +31,7 @@
             android:layout_marginBottom="@dimen/small_margin"
             android:gravity="center"
             android:text="@string/contact_me"
+
             android:textColor="@color/white"
             android:textSize="@dimen/welcome_text_size"
             android:textStyle="bold" />
@@ -45,6 +46,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/small_margin"
+            android:background="#30ffffff"
             android:text="@string/questions"
             android:textColor="@color/white" />
 

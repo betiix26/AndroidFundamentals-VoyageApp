@@ -51,8 +51,11 @@
                 android:layout_height="wrap_content"
                 android:inputType="textEmailAddress"
                 android:maxLines="1"
+                android:background="#30ffffff"
                 android:textStyle="bold"
-                android:textColor="@color/white"/>
+                android:textColor="@color/black"/>
+                <!--android:hint="Email"
+                android:textColorHint="@color/white"-->
                <!--android:background="@drawable/rounded_view"-->
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -75,8 +78,9 @@
                 android:layout_height="wrap_content"
                 android:inputType="textPassword"
                 android:maxLines="1"
+                android:background="#30ffffff"
                 android:textStyle="bold"
-                android:textColor="@color/white" />
+                android:textColor="@color/black" />
 
         </com.google.android.material.textfield.TextInputLayout>
 

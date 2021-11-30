@@ -1617,6 +1617,7 @@ drawable btn_radio_on_to_off_mtrl_animation
 drawable citysunset
 drawable clouds
 drawable colors
+drawable contact_icon
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1656,7 +1657,6 @@ drawable ic_outline_info_24
 drawable ic_outline_invert_colors_24
 drawable ic_outline_location_on_24
 drawable ic_outline_map_24
-drawable ic_outline_person_24
 drawable ic_outline_save_24
 drawable ic_outline_share_24
 drawable ic_outline_text_fields_24

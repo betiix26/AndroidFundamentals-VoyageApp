@@ -256,10 +256,6 @@
         "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\gradient_color5.xml"
     },
     {
-        "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_person_24.xml.flat",
-        "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\ic_outline_person_24.xml"
-    },
-    {
         "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_contact.xml.flat",
         "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\layout\\fragment_contact.xml"
     },
@@ -342,6 +338,10 @@
     {
         "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_original.jpg.flat",
         "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\original.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contact_icon.png.flat",
+        "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\contact_icon.png"
     },
     {
         "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gmail.png.flat",

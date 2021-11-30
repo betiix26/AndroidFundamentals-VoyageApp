@@ -1634,7 +1634,6 @@ drawable gradient_color3
 drawable gradient_color4
 drawable gradient_color5
 drawable ic_baseline_add_24
-drawable ic_baseline_alternate_email_24
 drawable ic_baseline_ice_skating_24
 drawable ic_baseline_star_24
 drawable ic_baseline_star_outline_24
@@ -1647,12 +1646,10 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
-drawable ic_outline_alternate_email_24
 drawable ic_outline_category_24
 drawable ic_outline_cloud_24
 drawable ic_outline_date_range_24
 drawable ic_outline_delete_24
-drawable ic_outline_fingerprint_24
 drawable ic_outline_house_24
 drawable ic_outline_ice_skating_24
 drawable ic_outline_info_24
@@ -1668,6 +1665,8 @@ drawable ic_outline_waves_24
 drawable ic_outline_wb_sunny_24
 drawable icon_selector
 drawable linkedin
+drawable lock
+drawable mail
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -1704,6 +1703,7 @@ drawable outline_visibility_24
 drawable outline_visibility_black_18
 drawable outline_visibility_off_24
 drawable outline_visibility_off_black_18
+drawable pass_lock
 drawable pink
 drawable pinksunset
 drawable plane

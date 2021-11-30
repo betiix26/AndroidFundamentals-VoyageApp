@@ -4,10 +4,6 @@
         "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\seasunset.jpg"
     },
     {
-        "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_alternate_email_24.xml.flat",
-        "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\ic_outline_alternate_email_24.xml"
-    },
-    {
         "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
@@ -18,10 +14,6 @@
     {
         "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_star_outline_24.xml.flat",
         "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\ic_baseline_star_outline_24.xml"
-    },
-    {
-        "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_fingerprint_24.xml.flat",
-        "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\ic_outline_fingerprint_24.xml"
     },
     {
         "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
@@ -126,6 +118,10 @@
     {
         "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lock.png.flat",
+        "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\lock.png"
     },
     {
         "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_trip.xml.flat",
@@ -254,10 +250,6 @@
     {
         "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_munte.jpg.flat",
         "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\munte.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_alternate_email_24.xml.flat",
-        "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\ic_baseline_alternate_email_24.xml"
     },
     {
         "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_color5.xml.flat",
@@ -392,8 +384,16 @@
         "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\gradient_color4.xml"
     },
     {
+        "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mail.png.flat",
+        "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\mail.png"
+    },
+    {
         "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pass_lock.png.flat",
+        "source": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\src\\main\\res\\drawable\\pass_lock.png"
     },
     {
         "merged": "C:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",

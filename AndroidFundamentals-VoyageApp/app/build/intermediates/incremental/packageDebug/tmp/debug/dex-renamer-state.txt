@@ -1,4 +1,4 @@
-#Tue Nov 30 17:08:44 EET 2021
+#Tue Nov 30 19:52:11 EET 2021
 base.0=C\:\\Users\\Beti\\Documents\\GitHub\\AndroidFundamentals-VoyageApp\\AndroidFundamentals-VoyageApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

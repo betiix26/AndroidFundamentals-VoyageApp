@@ -43,7 +43,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/email"
-            app:startIconDrawable="@drawable/ic_outline_alternate_email_24">
+            app:startIconDrawable="@drawable/mail">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/text_field_email_value"
@@ -51,7 +51,9 @@
                 android:layout_height="wrap_content"
                 android:inputType="textEmailAddress"
                 android:maxLines="1"
-                android:textColor="@color/white" />
+                android:textStyle="bold"
+                android:textColor="@color/white"/>
+               <!--android:background="@drawable/rounded_view"-->
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -65,7 +67,7 @@
             app:passwordToggleDrawable="@drawable/icon_selector"
             app:passwordToggleEnabled="true"
             app:passwordToggleTint="@color/black"
-            app:startIconDrawable="@drawable/ic_outline_fingerprint_24">
+            app:startIconDrawable="@drawable/pass_lock">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/text_field_password_value"
@@ -73,6 +75,7 @@
                 android:layout_height="wrap_content"
                 android:inputType="textPassword"
                 android:maxLines="1"
+                android:textStyle="bold"
                 android:textColor="@color/white" />
 
         </com.google.android.material.textfield.TextInputLayout>

@@ -42,7 +42,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/name"
-            app:startIconDrawable="@drawable/ic_outline_person_24">
+            app:startIconDrawable="@drawable/contact_icon">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/text_field_name_value"
@@ -50,6 +50,7 @@
                 android:layout_height="wrap_content"
                 android:inputType="text"
                 android:maxLines="1"
+                android:textStyle="bold"
                 android:textColor="@color/white" />
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -61,7 +62,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/small_margin"
             android:hint="@string/email"
-            app:startIconDrawable="@drawable/ic_outline_alternate_email_24">
+            app:startIconDrawable="@drawable/mail">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/text_field_email_value"
@@ -69,6 +70,7 @@
                 android:layout_height="wrap_content"
                 android:inputType="textEmailAddress"
                 android:maxLines="1"
+                android:textStyle="bold"
                 android:textColor="@color/white" />
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -83,7 +85,7 @@
             app:passwordToggleDrawable="@drawable/icon_selector"
             app:passwordToggleEnabled="true"
             android:textColor="@color/white"
-            app:startIconDrawable="@drawable/ic_outline_fingerprint_24">
+            app:startIconDrawable="@drawable/pass_lock">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/text_field_password_value"
@@ -91,6 +93,7 @@
                 android:layout_height="wrap_content"
                 android:inputType="textPassword"
                 android:maxLines="1"
+                android:textStyle="bold"
                 android:textColor="@color/white" />
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -105,7 +108,7 @@
             app:passwordToggleDrawable="@drawable/icon_selector"
             app:passwordToggleEnabled="true"
             android:textColor="@color/white"
-            app:startIconDrawable="@drawable/ic_outline_fingerprint_24">
+            app:startIconDrawable="@drawable/pass_lock">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/text_field_password_verification_value"
@@ -113,6 +116,7 @@
                 android:layout_height="wrap_content"
                 android:inputType="textPassword"
                 android:maxLines="1"
+                android:textStyle="bold"
                 android:textColor="@color/white" />
 
         </com.google.android.material.textfield.TextInputLayout>

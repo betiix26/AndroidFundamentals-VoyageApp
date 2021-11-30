@@ -189,17 +189,4 @@ public class ViewTripActivity extends AppCompatActivity {
 
     }
 
-    public void markAsFavorite(View view) {
-        if (!trip.isFavorite()) {
-            tripDao.setFavorite(trip.getId());
-            trip.setFavorite(true);
-            favoriteButton.setImageResource(R.drawable.ic_baseline_star_24);
-            Snackbar.make(view, view.getContext().getString(R.string.favorites_added), BaseTransientBottomBar.LENGTH_SHORT).show();
-        } else {
-            tripDao.removeFavorite(trip.getId());
-            trip.setFavorite(false);
-            favoriteButton.setImageResource(R.drawable.ic_baseline_star_outline_24);
-            Snackbar.make(view, view.getContext().getString(R.string.favorites_removed), BaseTransientBottomBar.LENGTH_SHORT).show();
-        }
-    }
 }

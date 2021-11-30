@@ -125,7 +125,6 @@
                     android:clickable="true"
                     android:contentDescription="@string/favorite_button"
                     android:focusable="true"
-                    android:onClick="markAsFavorite"
                     android:src="@drawable/ic_baseline_star_outline_24"
                     android:tint="@color/yellow_500" />
 
